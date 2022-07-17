@@ -1,3 +1,5 @@
+pub mod traits;
+
 mod base;
 
 pub mod done;
